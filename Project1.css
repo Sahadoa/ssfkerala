@@ -1,0 +1,155 @@
+.header{
+    background-color:#212529;
+    color: white;
+    width: 100%;
+    height: 80px;
+}
+.left-side{
+    width:5%;
+    padding-top: 19px;
+    padding-left: 117px;
+    float: left;
+
+}
+body{
+    margin:0;
+}
+.left-side1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    float: left;
+    padding-top: 8px;
+    text-decoration: none;
+    padding-left: 2px;
+
+}
+.left-side2{
+    float:left;
+    padding-left: 37px;
+    padding-top: 15px;
+    background-color: #212529;
+    color: white;
+    float: left;
+    
+}
+.para{
+    background-color:#212529;
+    color:white;
+    border-color: #212529;
+    font-family:Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    border-radius: 5px;
+    height: 40px;
+    width: 165px;
+    font-size: medium;
+    float: left;
+}
+.para:hover{
+    background: grey;
+}
+
+.right-side{
+    float:right;
+    padding-right: 125px;
+    padding-top: 16px;
+
+}
+.button1{
+    height: 40px;
+    width: 90px;
+    border-radius: 7px;
+    border-right-width: 1px;
+    background:#212529;
+    color:#2fb380;
+    border-color:#2fb380;
+    font-weight: bold;
+    cursor: pointer;
+}
+.button1:hover{
+    
+    background: #2fb380;
+    color: white;
+
+}
+.others{
+    float: left;
+    padding-left: 50px;
+}
+.para1{
+    background-color: #212529;
+    color:white;
+    border-color: #212529;
+    font-family:Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    border-radius: 5px;
+    height: 40px;
+    width: 85px;
+    font-size: medium;
+    border: 0px;
+    float: left;
+    
+    
+}
+.para1:hover{
+    background: grey;
+}
+.body{
+    width: 100%;
+    height: 590px;
+    background:skyblue;
+}
+.body{
+    float: left;
+     width: 100%;
+     height: 590px;
+     background: #E5F1F8;
+}
+#ab{
+    padding-top: 40px;
+    padding-left: 122px;
+    color: #5E676C;
+}
+.abcd{
+    padding-bottom: 100px;
+    margin-left: 120px;
+    border-width: 10px;
+    border-radius: 10px;
+    width: 1120px;
+    height: 205px;
+    background: white;
+
+}
+.web{
+    width: 100%;
+    height: 60px;
+    color: #5E676C;
+    background: #F7F7F7;
+    border: 1px;
+    border-color: #0c110f;
+    border-radius: 5px;
+}
+#a{
+    padding-top: 20px;
+    margin-left: 20px;
+}
+.exce{
+    margin-left: 80px;
+    margin-top: 20px;
+    color:#5E676C;
+    float: left;
+}
+#b{
+    margin-top: 5px;
+    padding-left: 5px;
+}
+.sahi{
+    margin-top: 20px;
+    margin-left: 70px;
+    float: left;
+    color: #0c110f;
+} 
+#c{
+    color:#5E676C;
+    margin-top: 5px;
+    padding-left: 5px;
+}
